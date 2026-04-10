@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/mar04450/public_html/musicadeassis
+    - /bin/cp -R * $DEPLOYPATH
