@@ -1,0 +1,35 @@
+/* P ou EXTRA P*/
+@media screen and (min-width: 400px) {
+  #welcome{
+    text-align: center !important;
+  }
+  #ultimas{
+    padding-left: 10px;
+  }
+  .afastamobile{
+    margin-top:20px
+  }
+}
+
+@media screen and (min-width: 300px) {
+    #welcome{
+    text-align: center !important;
+  }
+    #ultimas{
+    padding-left: 10px;
+  }
+    .afastamobile{
+    margin-top:20px
+  }
+}
+
+/*M ou G*/
+
+@media screen and (min-width: 800px) {
+      #welcome{
+    text-align: left !important;
+  }
+    .afastamobile{
+    margin-top:0px
+  }
+}
