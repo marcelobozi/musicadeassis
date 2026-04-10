@@ -93,7 +93,7 @@ include_once("../../menu.php");
     <div class="container-fluid">
         <div class="row justify-content-center" style="margin-top:80px">
             <div class="col-md-10 col-12">
-                <img src="/img/coral-sao-francisco-de-assis.jpg" class="img-fluid" alt="">
+                <img src="/img/2026/abril/coral-sao-francisco.jpg" class="img-fluid" alt="Coral São Francisco de Assis">
                 </div>
             </div>
         </div>
@@ -136,7 +136,8 @@ include_once("../../menu.php");
                     </div>
                     <div class="col-md-12 col-12 afasta20">
                             <ul class="list-group">
-                              <li class="list-group-item"><strong>04 de Abril de 2026</strong>: Missa da Vigília Pascal. 19:30h. <strong>Local:</strong> Matriz (Igreja S. Francisco de Assis). <a href="/quem-somos/coral-sao-francisco/missa-vigilia-pascal/">Acesse roteiro</a> (uso dos coralistas)</li>
+                              <li class="list-group-item"><strong>04 de Abril de 2026</strong>: Missa da Vigília Pascal. 19:30h. <strong>Local:</strong> Matriz (Igreja S. Francisco de Assis).</li>
+                               <li class="list-group-item"><strong>12 de Junho de 2026</strong>: Missa em Comemoração ao Dia do Sagrado Coração de Jesus. 19:30h. <strong>Local:</strong> Comunidade Sagrado Coração de Jesus. <a href="/quem-somos/coral-sao-francisco/missa-comemoracao-sagrado-coracao-de-jesus/">Acesse roteiro</a> (uso dos coralistas)</li>
                             </ul>
                     </div>
                     <div class="col-md-12 col-12"></div>
