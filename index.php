@@ -360,7 +360,7 @@ include_once("menu.php");
 
       <div class="row">
         <div class="col-md-12">
-              <h2><i class="fa fa-question-circle" aria-hidden="true"></i> Perguntas Frequentes e Respostas</h2>
+              <h2><i class="fa fa-question-circle" aria-hidden="true"></i> Perguntas Frequentes e Respostas <?php echo "DANDAN";?></h2>
         </div>
       </div>
 
