@@ -1,4 +1,21 @@
 <div class="container-fluid" style="background-color:#f5f5dc !important">
+
+    <div class="row">
+        <style>
+            #social {
+                background: linear-gradient(to right, #ac5a0d, #5e330a);
+            }
+            #social a:hover {
+                font-size: 1.2em;
+                transition: font-size 0.3s ease;
+            }
+        </style>
+        <div id="social" class="col-md-12 text-center" style="padding:10px 0px; color:#fff;font-size:1.2em">
+            <a href="https://www.instagram.com/musicadeassis" target="_blank" style="color:#fff;text-decoration:none">
+            <i class="fa fa-instagram" aria-hidden="true"></i> <strong>Siga a PASMUS no Instagram</strong></a>
+        </div>
+    </div>
+
     <div class="row justify-content-center">
         <div class="col-md-10 col-12" style="min-height:300px;padding-top:40px">
             <div class="row">

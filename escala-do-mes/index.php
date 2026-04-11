@@ -106,6 +106,7 @@ include_once("../menu.php");
              <ul>
               <li><strong>MISSAS ASSINALADAS EM ROXO</strong>: extras/ pastorais em função da Semana Santa</li>
                <li><strong>3ª Quinta - 8h</strong>: sem quipe</li>
+               <li><strong>3º Domingo - 17h</strong>: sem quipe</li>
             </ul>
              <hr>
              <h4>Pode assumir uma dessas missas?</h4>
@@ -118,8 +119,8 @@ include_once("../menu.php");
       <div class="row" style="margin-top:40px">
         <div class="col-md-12">
 <!-- ACCORDEON -->
- <a href="/img/2026/abril/escala-v4.png">
-<img src="/img/2026/abril/escala-v4.png" alt="" class="img-fluid">
+ <a href="/img/2026/abril/escala-v5.png">
+<img src="/img/2026/abril/escala-v5.png" alt="" class="img-fluid">
 </a>
 <!-- ACCORDEON -->
         </div>

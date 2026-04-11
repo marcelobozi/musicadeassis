@@ -1062,11 +1062,11 @@ Amém, amém, amém!</span>
                     <div class="col-md-12">
                       <h2 class="text-center imprimir"><i class="fa fa-music" aria-hidden="true"></i> FINAL</h2>
                         <h3 class="text-center imprimir">Seguir-te-ei</h3>
-<!-- progresso -->
-<div style="margin-bottom:20px" class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="<?php echo $final; ?>" aria-valuemin="0" aria-valuemax="100">
-  <div class="progress-bar" style="width: <?php echo $final; ?>%"><?php echo $final; ?>%</div>
-</div>
-<!-- progresso -->
+                              <!-- progresso -->
+                              <div style="margin-bottom:20px" class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="<?php echo $final; ?>" aria-valuemin="0" aria-valuemax="100">
+                                <div class="progress-bar" style="width: <?php echo $final; ?>%"><?php echo $final; ?>%</div>
+                              </div>
+                              <!-- progresso -->
                     </div>
                     <div class="col-md-12 afasta40">
                       <div class="ratio ratio-16x9">
@@ -1099,7 +1099,7 @@ Amém, amém, amém!</span>
                           </div>
                     </div>
                     <div class="col-md-12">
-				<div class="alert alert-danger" role="alert">
+				          <div class="alert alert-danger" role="alert">
                                     <h4>Tenor</h4>
                                         <audio preload="metadata" controls class="w-100">
                                           <source src="midia/ste-tenor.mp3" type="audio/mpeg">
@@ -1107,10 +1107,10 @@ Amém, amém, amém!</span>
                                         </audio>
                                   </div>
                     
-                    </div>
-                    <div class="col-md-12">
-				<div class="alert alert-dark" role="alert">
-                                    <h4>Contralto</h4>
+                      </div>
+                      <div class="col-md-12">
+                        <div class="alert alert-dark" role="alert">
+                                      <h4>Contralto</h4>
                                         <audio controls preload="metadata" class="w-100">
                                          <source src="midia/ste-contralto.mp3" type="audio/mpeg">
                                               Seu navegador não suporta áudio HTML5. <a href="midia/ste-contralto.mp3">Baixe o MP3</a>.
@@ -1118,7 +1118,7 @@ Amém, amém, amém!</span>
                                   </div>                
                     </div>
                     <div class="col-md-12">
-				<div class="alert alert-info" role="alert">
+				              <div class="alert alert-info" role="alert">
                                     <h4>Soprano</h4>
                                         <audio preload="metadata" controls class="w-100">
                                           <source src="midia/ste-soprano.mp3" type="audio/mpeg">

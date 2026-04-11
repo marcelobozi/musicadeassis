@@ -856,44 +856,80 @@ Meu coração não é meu (2x)</strong>
 
 
 
-              
               <div class="row branca afasta40" style="margin-bottom:80px">
                 <div class="col-md-12" style="border:solid 1px #000;padding:20px">
                   <div class="row">
                     <div class="col-md-12">
                       <h2 class="text-center imprimir"><i class="fa fa-music" aria-hidden="true"></i> FINAL</h2>
-                        <h3 class="text-center imprimir">Coração Santo - Tu Reinarás</h3>
-                          <!-- progresso -->
-                          <div style="margin-bottom:20px" class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="<?php echo $final; ?>" aria-valuemin="0" aria-valuemax="100">
-                            <div class="progress-bar" style="width: <?php echo $final; ?>%"><?php echo $final; ?>%</div>
-                          </div>
-                          <!-- progresso -->
+                        <h3 class="text-center imprimir">Seguir-te-ei</h3>
+                              <!-- progresso -->
+                              <div style="margin-bottom:20px" class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="<?php echo $final; ?>" aria-valuemin="0" aria-valuemax="100">
+                                <div class="progress-bar" style="width: <?php echo $final; ?>%"><?php echo $final; ?>%</div>
+                              </div>
+                              <!-- progresso -->
                     </div>
                     <div class="col-md-12 afasta40">
                       <div class="ratio ratio-16x9">
-                        <iframe src="https://www.youtube.com/embed/nAF-VphQ5EU?rel=0" title="YouTube video" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/nTdhx9Zz04U?rel=0" title="YouTube video" allowfullscreen></iframe>
                       </div>
                     </div>
                     <div class="col-md-12 afasta40">
                  <p class="imprimir">
-                        <strong>Coração Santo<br>
-                          Tu reinarás<br>
-                          Tu, nosso encanto<br>
-                          Sempre serás (2X)</strong><br>
-                          <br>
-                          Jesus amável, Jesus piedoso<br>
-                          Deus amoroso, frágua de amor<br>
-                          A Teus pés venho, se Tu me deixas<br>
-                          Humildes queixas, sentido expor.<br>
+                        <strong>
+                        R. Seguir-te-ei, seguir-te-ei, ó Senhor,<br>
+                        e na tua estrada caminharei.</strong><br>
+                        <br>
+                        <strong>Homens:</strong> Seguir-te-ei no caminho do amor<br>
+                        e doarei ao mundo a vida.<br>
+                        <br>
+                        <strong>Mulheres:</strong> Seguir-te-ei no caminho da luz<br>
+                        e a tua cruz nos salvará.<br>
+                        <br>
+                        <strong>Todos:</strong> Seguir-te-ei no caminho da alegria<br>   
+                        e a tua luz nos guiará.
                         </p>
                     </div>
-                
-         
-                
-               
+                    <div class="col-md-12 afasta20">
+				                <div class="alert alert-warning" role="alert">
+                                    <h4>Baixo</h4>
+                                        <audio controls preload="metadata" class="w-100">
+                                          <source src="midia/ste-baixo.mp3" type="audio/mpeg">
+                                              Seu navegador não suporta áudio HTML5. <a href="midia/ste-baixo.mp3">Baixe o MP3</a>.
+                                        </audio>
+                          </div>
+                    </div>
+                    <div class="col-md-12">
+				          <div class="alert alert-danger" role="alert">
+                                    <h4>Tenor</h4>
+                                        <audio preload="metadata" controls class="w-100">
+                                          <source src="midia/ste-tenor.mp3" type="audio/mpeg">
+                                              Seu navegador não suporta áudio HTML5. <a href="midia/ste-tenor.mp3">Baixe o MP3</a>.
+                                        </audio>
+                                  </div>
+                    
+                      </div>
+                      <div class="col-md-12">
+                        <div class="alert alert-dark" role="alert">
+                                      <h4>Contralto</h4>
+                                        <audio controls preload="metadata" class="w-100">
+                                         <source src="midia/ste-contralto.mp3" type="audio/mpeg">
+                                              Seu navegador não suporta áudio HTML5. <a href="midia/ste-contralto.mp3">Baixe o MP3</a>.
+                                        </audio>
+                                  </div>                
+                    </div>
+                    <div class="col-md-12">
+				              <div class="alert alert-info" role="alert">
+                                    <h4>Soprano</h4>
+                                        <audio preload="metadata" controls class="w-100">
+                                          <source src="midia/ste-soprano.mp3" type="audio/mpeg">
+                                              Seu navegador não suporta áudio HTML5. <a href="midia/ste-soprano.mp3">Baixe o MP3</a>.
+                                        </audio>
+                                  </div>
+                    
+                    </div>
                     <div class="col-md-12">
                       <div class="row afasta20">
-                        <div class="col-md-6 col-6"></div>
+                        <div class="col-md-6 col-6"><a style="width:100%" class="btn btn-dark" href="midia/seguir-te-ei.pdf" target="_blank"><i class="fa fa-hashtag" aria-hidden="true"></i> Partitura</a></div>
                         <div class="col-md-6 col-6"></div>
                       </div>
                     </div>
