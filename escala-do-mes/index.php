@@ -76,7 +76,7 @@ include_once("../menu.php");
   </header>
 
     <div class="container-fluid">
-        <div class="row justify-content-center" style="margin-top:80px">
+        <div class="row justify-content-center" style="margin-top:80px;margin-bottom:40px">
             <div class="col-md-10 col-12">
                 <div class="row">
                   <div class="col-md-12">
@@ -93,7 +93,48 @@ include_once("../menu.php");
 
 
 
-<div class="container-fluid" style="background-color:#422918; padding-top:50px;padding-bottom:50px;min-height:450px;margin-top:60px">
+
+<div class="container-fluid" style="background-color:#7e5834; padding-top:50px;padding-bottom:50px;min-height:450px">
+  <div class="row justify-content-center">
+    <div class="col-md-10 col-12">
+      <div class="row">
+        <div class="col-md-12">
+          <h2 class="exo-2-four" style="color:#ffffff">Maio 2026</h2>
+        </div>
+        <div class="col-md-12 afasta20">
+          <div class="alert alert-warning" role="alert">
+             <h4><i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Dias sem equipe:</h4>
+             <ul>
+              <li><strong>03 (domingo) - 19h</strong>: sem equipe</li>
+              <li><strong>17 (domingo) - 8h</strong>: sem equipe</li>
+              <li><strong>17 (domingo) - 17h</strong>: sem equipe</li>
+              <li><strong>21 (quinta-feira) - 19:30h</strong>: sem equipe</li>
+              <li><strong>30 (sábado) - 19:30h</strong>: sem equipe</li>
+             </ul>
+             <hr>
+             <h4>Pode assumir uma dessas missas?</h4>
+             <a class="btn btn-success" target="_blank" href="https://wa.me/5527999559079?text=Desejo%20assumir%20uma%20Missa%20sem%20equipe">
+              <i class="fa fa-whatsapp" aria-hidden="true"></i> Clique aqui (fale comigo)</a>
+
+          </div>
+        </div>
+      </div>
+      <div class="row" style="margin-top:40px">
+        <div class="col-md-12">
+          <!-- ACCORDEON -->
+          <a href="/img/2026/maio/escala-v0.png">
+          <img src="/img/2026/maio/escala-v0.png" alt="" class="img-fluid">
+          </a>
+          <!-- ACCORDEON -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="container-fluid" style="background-color:#422918; padding-top:50px;padding-bottom:50px;min-height:450px">
   <div class="row justify-content-center">
     <div class="col-md-10 col-12">
       <div class="row">
@@ -105,8 +146,7 @@ include_once("../menu.php");
              <h4><i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Dias sem equipe:</h4>
              <ul>
               <li><strong>MISSAS ASSINALADAS EM ROXO</strong>: extras/ pastorais em função da Semana Santa</li>
-               <li><strong>3ª Quinta - 8h</strong>: sem quipe</li>
-               <li><strong>3º Domingo - 17h</strong>: sem quipe</li>
+              <li>26 (domingo): Missa de Primeira Eucaristia - sem equipe </li>
             </ul>
              <hr>
              <h4>Pode assumir uma dessas missas?</h4>
@@ -118,11 +158,11 @@ include_once("../menu.php");
       </div>
       <div class="row" style="margin-top:40px">
         <div class="col-md-12">
-<!-- ACCORDEON -->
- <a href="/img/2026/abril/escala-v5.png">
-<img src="/img/2026/abril/escala-v5.png" alt="" class="img-fluid">
-</a>
-<!-- ACCORDEON -->
+        <!-- ACCORDEON -->
+        <a href="/img/2026/abril/escala-v6.png">
+        <img src="/img/2026/abril/escala-v6.png" alt="" class="img-fluid">
+        </a>
+        <!-- ACCORDEON -->
         </div>
       </div>
     </div>

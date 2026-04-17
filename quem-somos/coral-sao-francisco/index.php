@@ -9,7 +9,7 @@ include_once("../../config.php");
  * Validação de Ambiente de Produção
  * Focado em stack Apache/PHP
  */
-
+ 
 // Definimos o domínio de produção
 $prodDomain = 'musicadeassis.com.br';
 
